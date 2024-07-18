@@ -144,8 +144,10 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:3000",
     "http://roulettech-assessment-frontend-bucket.s3-website-us-east-1.amazonaws.com",
+    "http://52.54.126.209"
 ]
 
 ALLOWED_HOSTS = [
     "ec2-54-91-17-67.compute-1.amazonaws.comN",
+    "52.54.126.209"
 ]
